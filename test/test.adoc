@@ -48,6 +48,8 @@ _italic phrase_ & __char__acter__s__
 3. Neutrons
 
 
+include::inc.adoc[]
+
 
 CPU:: The brain of the computer.
 Hard drive:: Permanent storage for operating system and/or user files.

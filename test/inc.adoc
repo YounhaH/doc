@@ -1,0 +1,45 @@
+= i am included file
+
+
+----
+This is an example of a _listing block_.
+The content inside is displayed as <pre> text.
+----
+
+
+[cols=2*,options=header]
+|===
+|Name
+|Group
+
+|Firefox
+|Web Browser
+
+|Ruby
+|Programming Language
+
+|===
+
+
+
+[cols="2,3,5"]
+|===
+|Name |Group |Description
+
+|Firefox
+|Web Browser
+|Mozilla Firefox is an open-source web browser.
+It's designed for standards compliance,
+performance and portability.
+
+|Ruby
+|Programming Language
+|A programmer's best friend.
+
+|===
+
+
+[source,ruby]
+----
+include::app.rb[]
+----
